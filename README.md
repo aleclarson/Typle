@@ -1,5 +1,5 @@
 
-# Typle v1.0.0 ![stable](https://img.shields.io/badge/stability-stable-4EBA0F.svg?style=flat)
+# Typle v1.0.1 ![stable](https://img.shields.io/badge/stability-stable-4EBA0F.svg?style=flat)
 
 > A tuple of types (used for validation).
 
